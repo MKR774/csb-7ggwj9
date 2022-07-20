@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://mkr774.github.io/csb-7ggwj9/static/css/main.5eed18d7.chunk.css",
+    "main.js": "https://mkr774.github.io/csb-7ggwj9/static/js/main.0b7ba9f6.chunk.js",
+    "main.js.map": "https://mkr774.github.io/csb-7ggwj9/static/js/main.0b7ba9f6.chunk.js.map",
+    "runtime-main.js": "https://mkr774.github.io/csb-7ggwj9/static/js/runtime-main.5586a5e2.js",
+    "runtime-main.js.map": "https://mkr774.github.io/csb-7ggwj9/static/js/runtime-main.5586a5e2.js.map",
+    "static/js/2.4d866460.chunk.js": "https://mkr774.github.io/csb-7ggwj9/static/js/2.4d866460.chunk.js",
+    "static/js/2.4d866460.chunk.js.map": "https://mkr774.github.io/csb-7ggwj9/static/js/2.4d866460.chunk.js.map",
+    "index.html": "https://mkr774.github.io/csb-7ggwj9/index.html",
+    "precache-manifest.4d0bc7043a2436268c88422d729de16e.js": "https://mkr774.github.io/csb-7ggwj9/precache-manifest.4d0bc7043a2436268c88422d729de16e.js",
+    "service-worker.js": "https://mkr774.github.io/csb-7ggwj9/service-worker.js",
+    "static/css/main.5eed18d7.chunk.css.map": "https://mkr774.github.io/csb-7ggwj9/static/css/main.5eed18d7.chunk.css.map",
+    "static/js/2.4d866460.chunk.js.LICENSE": "https://mkr774.github.io/csb-7ggwj9/static/js/2.4d866460.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5586a5e2.js",
+    "static/js/2.4d866460.chunk.js",
+    "static/css/main.5eed18d7.chunk.css",
+    "static/js/main.0b7ba9f6.chunk.js"
+  ]
+}
